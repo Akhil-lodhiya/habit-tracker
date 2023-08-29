@@ -27,5 +27,5 @@ To install all the dependences of the project, run the following command:
 
 #### Deployment Link:
 Application has been deployed on render.com
- - Link : https://habit-tracker-h4qi.onrender.com
+ - Link : https://habit-tracking-r4aa.onrender.com/
 
